@@ -1,4 +1,4 @@
 {
-  "alert": true,
-  "message": "Test alert from GitHub"
+  "alert": false,
+  "message": "No alert"
 }
