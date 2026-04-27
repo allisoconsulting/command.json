@@ -1,5 +1,5 @@
 {
-  "alert": true,
-  "messageId": "002",
-  "message": "Second test alert"
+  "alert": false,
+  "messageId": "000",
+  "message": "No alert"
 }
